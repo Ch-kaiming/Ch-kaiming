@@ -1,7 +1,7 @@
 <p align="center">
   </p>
 
-<h1 align="center">Hi there, I'm Kaiming (Carlos) Heisenberg 👋</h1>
+<h1 align="center">Hi there, Carlos Heisenberg 👋</h1>
 <h3 align="center">A passionate developer, CS postgraduate candidate, and lifelong learner.</h3>
 
 <p align="left">
