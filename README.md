@@ -62,7 +62,7 @@
 
 <h3 align="left">📝 My Learning Journey:</h3>
 <p>
-  - 📚 I document my daily learnings in my <a href="https://github.com/Ch-kaiming/Today-I-Learned"><strong>Today I Learned (TIL)</strong></a> repository. Feel free to check it out!
+  - 📚 I document my daily learnings in my <a href="https://github.com/Ch-kaiming/TIL"><strong>Today I Learned (TIL)</strong></a> repository. Feel free to check it out!
   </p>
 
 
